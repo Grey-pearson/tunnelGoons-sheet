@@ -1,0 +1,37 @@
+Html:
+* divs for:
+- navbar for calculator, editing, resorsces, color themes
+- name, race, lvl, background
+- ability scores
+- ability saves
+- skills (proficency indecator) bonus
+- insperation
+- proficency bonus
+- ac, initiative, speed (types of speed??), hp, current hp, temp hp
+- hit die, death saves
+- personalit traits, ideals, bonds, flaws
+- attacks and spellcasting
+- features n traits
+- laungages, proficencies
+- passive perseption
+- equipment (money)
+* (genral info)
+- character apperance
+- allies and organizations
+- backstory
+- additional features
+- treasure
+* (spellcasting if aplicaple)
+- spellcasting calss, spellcasting ability, spell dc, spell attack
+- spell lvls from 0-9
+
+Css:
+* make it look like a sheet with a background
+- set up variable colors for swaping themes
+
+JS:
+* basic math functions
+- take lvl and calcilate proficency bonus then update skills/saves
+- add ability scores to skill/saves
+* changing apperance of sheet
+* auto rolls
